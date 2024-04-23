@@ -29,4 +29,4 @@ spec:
     - name: client
       protocol: TCP
       port: 3000
-      targetPort: 3001
+      targetPort: 3000
